@@ -1,7 +1,12 @@
+#
+#
+#
 #1.1
+#
+#
+#
 
 from cmath import pi
-from unicodedata import name
 
 class Circle:
     def __init__(self , raduis , color):
@@ -33,8 +38,13 @@ circle1 = Circle(4, "red")
 print(circle1)
 
 print('-------------------------------------------------------------------------------------------------------')
+#
+#
+#
 #1.3
-
+#
+#
+#
 class Rectangle:
     def __init__(self , length , width):
         self.length = length
@@ -65,8 +75,13 @@ rect = Rectangle(2,4)
 print(rect)
 
 print('-------------------------------------------------------------------------------------------------------')
+#
+#
+#
 #1.4
-
+#
+#
+#
 class Employee:
     def __init__(self , id ,firstName , secondName , salary) :
         self.id = id
@@ -110,8 +125,13 @@ E1.raiseSalary(5)
 print(E1)
 
 print('-------------------------------------------------------------------------------------------------------')
-#1.6
-
+#
+#
+#
+#1.6 
+#
+#
+#
 class Account:
     def __init__(self , id , name , balance):
         self.id = id
