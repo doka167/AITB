@@ -62,24 +62,28 @@ the two?
 ##############################
 
 '''
+
 1- Classes take memory space when they are created 
-    -->(True)
+    -->(False)
+    --> when an instance of them is created  
 
 2- Object Oriented Programming Provides logical structure to a program where programs are divided functions 
-    -->(false)
+    -->(False)
+    --> divided to classes and objects 
 
 3- Data Abstraction Allows showing important aspects while hiding implementation details 
     -->(True)
 
 4- A constructor is a void method that has the same name as theclass and is used to initialize objects of 
 that class. 
-    -->(false)
+    -->(False)
+    --> not a void or non void
 
 5- Encapsulation is one of the 3 pillars of Object OrientedProgramming (OOP). It literally means to perceive 
 an entity in a system or context from a particular perspective. We take out unnecessary details and only focus 
 on aspects that are necessary to that context or system under consideration. 
-    -->(True)
-
+    -->(False)
+    --> 4 pillars 
 '''
 
 ########################################################################################################
